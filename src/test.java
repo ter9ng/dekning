@@ -2,5 +2,10 @@
 public class test {
 
 	
-	//noe
+	//noe mer!!!!
+	
+	public superAwsm()
+	{
+		
+	}
 }
