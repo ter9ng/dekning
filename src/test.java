@@ -4,7 +4,7 @@ public class test {
 	
 	//noe mer!!!!
 	
-	public superAwsm()
+	public void superAwsm()
 	{
 		
 	}
